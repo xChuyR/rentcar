@@ -164,6 +164,7 @@
           </div>
         </div>
         <div class="footer-bottom">
+          <!-- Jesus estuvo aqui -->
           <span>{{ t('rights') }}</span>
           <span>{{ t('tech') }}</span>
         </div>

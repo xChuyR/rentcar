@@ -18,8 +18,7 @@
         </div>
       </div>
       <div class="hero-visual" aria-hidden="true">
-        
-        <img src="../assets/img/Toyota RAV4 Hybrid.png" alt="">
+        <img src="../assets/img/Tesla Model S.png" alt="">
         <span class="hero-badge">✦ Flota 2024–2025</span>
       </div>
     </section>

@@ -259,3 +259,4 @@
 127.0.0.1 - - [23/Mar/2026:17:24:42 -0500] "GET /api/cart HTTP/1.1" 200 66 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
 127.0.0.1 - - [23/Mar/2026:17:25:01 -0500] "GET /api/cart HTTP/1.1" 200 66 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
 127.0.0.1 - - [23/Mar/2026:17:25:08 -0500] "GET /api/cart HTTP/1.1" 200 66 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+127.0.0.1 - - [23/Mar/2026:18:05:25 -0500] "GET /api/cars HTTP/1.1" 200 1991 "http://localhost:5173/servicios" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
